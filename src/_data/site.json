@@ -50,41 +50,41 @@
       "Estude no seu ritmo",
       "7 dias de garantia"
     ],
-    "photo": "assets/stephanie.svg",
+    "photo": "assets/Design sem nome.png",
     "tagName": "Prof.ª Dra. Stephanie Ribeiro",
     "tagHandle": "@steribeiroprof"
   },
   "dores": {
     "eyebrow": "Se você se identifica com isso, continue lendo",
-    "title": "O problema não é falta de inteligência.<br>É falta de <em>método</em>.",
-    "lead": "Você lê, sublinha, salva PDF, compra livro, faz anotações e acumula referências. Mas, na hora de escrever, nada se conecta — e a pesquisa não anda no ritmo que poderia.",
+    "title": "O problema não é falta de inteligência.<br>É falta de <em>direção</em>.",
+    "lead": "A formação acadêmica te ensina conceitos, teorias e autores. Você lê, sublinha, salva PDFs, faz anotações e acumula referências. Mas, na hora de transformar tudo isso em problema, método, argumento, análise e texto, as peças não se conectam — e a pesquisa não anda no ritmo que poderia.",
     "items": [
       {
-        "title": "“Meu texto está confuso e eu não sei por onde começar a revisar.”",
-        "text": "Você sente que escreve de qualquer jeito e revisa no improviso, sem critério."
+        "title": "“Estudo muito, mas continuo travada.”",
+        "text": "Sem direcionamento, seu esforço vira cansaço e frustração, não avanço concreto. E, aos poucos, você começa a duvidar de si mesma."
+      },
+      {
+        "title": "“Não sei se minha pesquisa faz sentido.”",
+        "text": "Você tem tema, leituras e algumas ideias, mas ainda não consegue enxergar com clareza o que realmente quer investigar, qual é o problema central e por que essa pesquisa seria relevante."
+      },
+      {
+        "title": "“Meu texto está confuso e eu não sei como melhorar.”",
+        "text": "Você escreve, apaga, reescreve e revisa no improviso, sem saber exatamente o que manter, cortar ou reorganizar."
       },
       {
         "title": "“Meu referencial parece uma colcha de retalhos.”",
-        "text": "Citação atrás de citação, sem fio condutor — e sem a sua voz no meio."
+        "text": "Citação atrás de citação, mas sem fio condutor, sem função clara e sem a sua voz conduzindo o argumento."
       },
       {
-        "title": "“Sinto que os autores já disseram tudo.”",
-        "text": "Qualquer coisa que você escreve parece “menos” do que o que já foi publicado."
-      },
-      {
-        "title": "“Não sei escrever do jeito que a academia exige.”",
-        "text": "A insegurança trava a escrita e faz você adiar conversas com o orientador."
-      },
-      {
-        "title": "“Estudo muito, mas continuo travada.”",
-        "text": "Seu esforço está virando cansaço, e não resultado."
+        "title": "“Me sinto insegura para tomar decisões na pesquisa.”",
+        "text": "Você até tenta avançar, mas sem critérios claros, passa a depender de validação externa para seguir — e a pesquisa fica mais lenta, pesada e desgastante."
       },
       {
         "title": "“A discussão dos meus dados não sai.”",
-        "text": "Você tem os resultados, mas não consegue transformá-los em contribuição teórica."
+        "text": "Você tem os resultados, mas não consegue transformá-los em análise, argumento e contribuição."
       }
     ],
-    "closing": "Isso acontece porque ninguém te ensinou a fazer a <strong>passagem entre leitura e escrita</strong>. E a gente interpreta esse bloqueio como incapacidade. Não é. É método — e método se aprende.",
+    "closing": "Quando esse caminho não está claro, você começa a achar que o problema é você. Mas <strong>não é falta de capacidade</strong>. É falta de um processo que te mostre como transformar <strong>repertório em pesquisa</strong>. E isso se aprende.",
     "cta": "Quero aprender o método"
   },
   "metodo": {
@@ -202,7 +202,7 @@
     "quote": "“Você não precisa sofrer com o referencial teórico. Só precisa entender o que ele precisa fazer.”",
     "instagramUrl": "https://instagram.com/steribeiroprof",
     "instagramLabel": "Ver no Instagram",
-    "photo": "assets/stephanie-2.svg"
+    "photo": "assets/Design sem nome (1).png"
   },
   "depoimentos": {
     "eyebrow": "Quem já aplicou",
