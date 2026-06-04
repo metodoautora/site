@@ -1,20 +1,12 @@
 /* =========================================================
    MÉTODO AUTORA — script
-   ▼▼▼ EDITE APENAS ESTA PARTE ▼▼▼
+   WhatsApp e checkout vêm do painel de conteúdo (window.SITE_CONFIG).
    ========================================================= */
-const CONFIG = {
-  // Número de WhatsApp no formato internacional, só dígitos.
-  // Ex.: Brasil + DDD 11 + número = "5511999999999"
+const CONFIG = window.SITE_CONFIG || {
   whatsapp: "5511999999999",
-
-  // Mensagem que já vem digitada quando a pessoa abre o WhatsApp.
-  whatsappMensagem: "Olá! Vim pelo site e quero saber mais sobre o Método Autora.",
-
-  // Link do checkout (Hotmart, Kiwify, Eduzz, Stripe, etc.).
-  // Cole aqui o link de pagamento do seu produto.
+  whatsappMessage: "Olá! Vim pelo site e quero saber mais sobre o Método Autora.",
   checkout: "https://pay.exemplo.com.br/seu-produto",
 };
-/* ▲▲▲ EDITE APENAS ESTA PARTE ▲▲▲ */
 
 
 /* ---------- Aplica os links de WhatsApp e checkout ---------- */
@@ -23,7 +15,7 @@ const CONFIG = {
     "https://wa.me/" +
     CONFIG.whatsapp +
     "?text=" +
-    encodeURIComponent(CONFIG.whatsappMensagem);
+    encodeURIComponent(CONFIG.whatsappMessage);
 
   document.querySelectorAll("[data-whatsapp]").forEach((el) => {
     el.setAttribute("href", waUrl);

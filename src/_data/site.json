@@ -1,0 +1,185 @@
+{
+  "meta": {
+    "title": "Método Autora | Prof.ª Dra. Stephanie Ribeiro",
+    "description": "O método para transformar leitura em escrita acadêmica autoral. Construa seu referencial teórico, escreva com autoria e avance na sua pesquisa — sem sobrecarga.",
+    "ogTitle": "Método Autora | Prof.ª Dra. Stephanie Ribeiro",
+    "ogDescription": "O caminho para escrever sua pesquisa com autoria, clareza e método."
+  },
+  "config": {
+    "whatsapp": "5511999999999",
+    "whatsappMessage": "Olá! Vim pelo site e quero saber mais sobre o Método Autora.",
+    "checkout": "https://pay.exemplo.com.br/seu-produto"
+  },
+  "brand": {
+    "lead": "Método",
+    "accent": "Autora"
+  },
+  "nav": {
+    "links": [
+      { "label": "O método", "href": "#sobre-o-metodo" },
+      { "label": "Módulos", "href": "#modulos" },
+      { "label": "Para quem é", "href": "#para-quem" },
+      { "label": "A professora", "href": "#professora" },
+      { "label": "Dúvidas", "href": "#faq" }
+    ],
+    "cta": "Quero participar"
+  },
+  "hero": {
+    "eyebrow": "Para mestrandas, doutorandas e pesquisadoras",
+    "title": "Você não precisa de mais conteúdo sobre pesquisa.<br><em>Precisa de um caminho.</em>",
+    "lead": "O <strong>Método Autora</strong> é o passo a passo da Prof.ª Dra. Stephanie Ribeiro para transformar leitura em texto acadêmico autoral — construir seu referencial teórico, escrever com voz própria e fazer a pesquisa finalmente avançar. Sem sobrecarga, sem retrabalho.",
+    "ctaPrimary": "Quero garantir minha vaga",
+    "ctaSecondary": "Entender como funciona",
+    "badges": [
+      "Acesso 100% online",
+      "No seu ritmo",
+      "7 dias de garantia"
+    ],
+    "photo": "assets/stephanie.svg",
+    "tagName": "Prof.ª Dra. Stephanie Ribeiro",
+    "tagHandle": "@steribeiroprof"
+  },
+  "dores": {
+    "eyebrow": "Se você se identifica com isso, continue lendo",
+    "title": "O problema não é falta de inteligência.<br>É falta de <em>método</em>.",
+    "lead": "Você lê, sublinha, salva PDF, compra livro, faz anotações e acumula referências. Mas, na hora de escrever, nada se conecta — e a pesquisa não anda no ritmo que poderia.",
+    "items": [
+      { "title": "“Meu texto está confuso e eu não sei por onde começar a revisar.”", "text": "Você sente que escreve de qualquer jeito e revisa no improviso, sem critério." },
+      { "title": "“Meu referencial parece uma colcha de retalhos.”", "text": "Citação atrás de citação, sem fio condutor — e sem a sua voz no meio." },
+      { "title": "“Sinto que os autores já disseram tudo.”", "text": "Qualquer coisa que você escreve parece “menos” do que o que já foi publicado." },
+      { "title": "“Não sei escrever do jeito que a academia exige.”", "text": "A insegurança trava a escrita e faz você adiar conversas com o orientador." },
+      { "title": "“Estudo muito, mas continuo travada.”", "text": "Seu esforço está virando cansaço, e não resultado." },
+      { "title": "“A discussão dos meus dados não sai.”", "text": "Você tem os resultados, mas não consegue transformá-los em contribuição teórica." }
+    ],
+    "closing": "Isso acontece porque ninguém te ensinou a fazer a <strong>passagem entre leitura e escrita</strong>. E a gente interpreta esse bloqueio como incapacidade. Não é. É método — e método se aprende.",
+    "cta": "Quero aprender o método"
+  },
+  "metodo": {
+    "eyebrow": "O que é o Método Autora",
+    "title": "Um caminho claro, do bloqueio à <em>escrita autoral</em>.",
+    "lead": "O Método Autora é um programa em módulos que te leva, passo a passo, da leitura dispersa até um texto acadêmico que é, de fato, <strong>seu</strong>.",
+    "paragraph": "Nada de dicas soltas. Você aprende um sistema aplicável à sua própria pesquisa: como ler com critério, fichar o que importa, construir um referencial teórico com fio condutor e transformar tudo isso em parágrafos com a sua voz.",
+    "checklist": [
+      "Saia do acúmulo improdutivo e entre em um processo claro e funcional.",
+      "Construa um referencial teórico sem se perder nas leituras.",
+      "Transforme citação direta em parágrafo autoral.",
+      "Escreva a discussão e transforme seus dados em contribuição teórica.",
+      "Ganhe segurança intelectual para ocupar o seu lugar como pesquisadora."
+    ],
+    "stats": [
+      { "value": "7", "label": "módulos práticos e aplicáveis" },
+      { "value": "100%", "label": "online, no seu ritmo" },
+      { "value": "+ materiais", "label": "modelos, guias e checklists prontos" },
+      { "value": "7 dias", "label": "de garantia incondicional" }
+    ]
+  },
+  "modulos": {
+    "eyebrow": "O que você vai aprender",
+    "title": "Os módulos do <em>Método Autora</em>",
+    "lead": "Cada módulo resolve um ponto específico que trava a maioria das pesquisadoras.",
+    "items": [
+      { "num": "01", "title": "Os fundamentos que ninguém te explicou", "text": "Epistemologia ≠ Paradigma ≠ Método ≠ Instrumento. Entenda, de uma vez por todas, a diferença — na prática — e pare de se perder no começo da pesquisa.", "bonus": false },
+      { "num": "02", "title": "Leitura estratégica e fichamento funcional", "text": "Escolha, priorize e organize leituras sem culpa por não ler tudo. Fique com o que interessa e descarte o que não serve.", "bonus": false },
+      { "num": "03", "title": "Referencial teórico sem colcha de retalhos", "text": "Construa um referencial com fio condutor, sem se perder nas leituras. Da pilha de citações a um texto que conversa com a sua pergunta.", "bonus": false },
+      { "num": "04", "title": "De citação a parágrafo autoral", "text": "Transforme citação direta em parágrafo seu. Aprenda a dialogar com os autores sem desaparecer do próprio texto.", "bonus": false },
+      { "num": "05", "title": "A estrutura do texto acadêmico", "text": "Como pensar a arquitetura do artigo, projeto, dissertação ou tese para que cada parágrafo tenha função e direção.", "bonus": false },
+      { "num": "06", "title": "Os parágrafos da discussão", "text": "Transforme seus dados em contribuição teórica. O momento em que o acúmulo finalmente vira argumento.", "bonus": false },
+      { "num": "07", "title": "Rotina e organização da pesquisa", "text": "Uma rotina acadêmica realista, ancorada na sua vida real, e uma organização que faz você nunca mais perder tempo procurando arquivos.", "bonus": false },
+      { "num": "★", "title": "Bônus: materiais de apoio", "text": "Modelo de fichamento funcional, cronograma de leitura e escrita, guia de organização da pesquisa e checklists prontos para aplicar.", "bonus": true }
+    ]
+  },
+  "paraQuem": {
+    "eyebrow": "Para quem é",
+    "title": "Feito para a sua fase da pesquisa",
+    "yesTitle": "É para você que…",
+    "yesItems": [
+      "lê muito e escreve muito menos do que gostaria;",
+      "está no mestrado, doutorado ou em pré-projeto e precisa estruturar a escrita agora;",
+      "quer construir o referencial teórico com autoria e segurança;",
+      "precisa escrever a discussão e transformar dados em contribuição;",
+      "quer voltar a publicar e produzir com consistência;",
+      "deseja ocupar seu lugar na academia com voz própria."
+    ],
+    "noTitle": "Não é para você que…",
+    "noItems": [
+      "procura dicas soltas sem intenção de aplicar;",
+      "quer um atalho para escrever sem se posicionar;",
+      "espera terceirizar a escrita para uma IA;",
+      "não está disposta a rever a própria rotina;",
+      "quer motivação vazia no lugar de método."
+    ]
+  },
+  "professora": {
+    "eyebrow": "Quem conduz",
+    "title": "Prof.ª Dra. <em>Stephanie Ribeiro</em>",
+    "lead": "Professora e pesquisadora, Stephanie ajuda mestrandas, doutorandas e pesquisadoras a transformarem leitura em escrita acadêmica autoral.",
+    "paragraph": "Depois de anos acreditando que “ser boa estudante era suficiente”, ela construiu um método próprio para sair do acúmulo improdutivo e escrever com clareza, fluidez e autoria. Hoje, no perfil <strong>@steribeiroprof</strong>, compartilha esse caminho com milhares de pesquisadoras — e reúne tudo, de forma estruturada, no Método Autora.",
+    "quote": "“Você não precisa sofrer com o referencial teórico. Só precisa entender o que ele precisa fazer.”",
+    "instagramUrl": "https://instagram.com/steribeiroprof",
+    "instagramLabel": "Ver no Instagram",
+    "photo": "assets/stephanie-2.svg"
+  },
+  "depoimentos": {
+    "eyebrow": "Quem já aplicou",
+    "title": "O que muda na prática",
+    "lead": "Substitua pelos depoimentos reais das suas alunas.",
+    "items": [
+      { "quote": "“Pela primeira vez meu referencial teórico tem um fio condutor. Parei de empilhar citações e comecei a escrever de verdade.”", "author": "— Aluna, mestranda em Educação" },
+      { "quote": "“Eu travava na discussão dos dados. Com o método, consegui transformar os resultados em contribuição teórica.”", "author": "— Aluna, doutoranda em Psicologia" },
+      { "quote": "“Saí da sensação de que ‘os autores já disseram tudo’. Hoje escrevo com a minha voz e muito mais segurança.”", "author": "— Aluna, pesquisadora" }
+    ]
+  },
+  "oferta": {
+    "eyebrow": "A sua vaga",
+    "title": "Comece hoje a escrever com <em>método</em>",
+    "listTitle": "Ao garantir sua vaga, você recebe:",
+    "listItems": [
+      "Acesso a todos os <strong>7 módulos</strong> do Método Autora;",
+      "Modelo de <strong>fichamento funcional</strong>;",
+      "Cronograma de <strong>leitura e escrita integradas</strong>;",
+      "Guia de <strong>organização prática da pesquisa</strong>;",
+      "Checklists de revisão e escrita autoral;",
+      "Acesso pelo computador e pelo celular, no seu ritmo;",
+      "<strong>7 dias de garantia</strong> incondicional."
+    ],
+    "priceFrom": "997",
+    "priceLabel": "por apenas",
+    "installments": "12x de",
+    "priceValue": "97",
+    "priceCents": ",00",
+    "cash": "ou R$ 997 à vista",
+    "ctaLabel": "Quero garantir minha vaga",
+    "whatsappLabel": "Prefiro falar no WhatsApp antes",
+    "safe": "🔒 Compra 100% segura · Vagas limitadas"
+  },
+  "garantia": {
+    "seal": "7",
+    "sealUnit": "dias",
+    "title": "Garantia incondicional",
+    "lead": "Faça sua inscrição com tranquilidade. Se em até <strong>7 dias</strong> você sentir que o Método Autora não é para o seu momento, devolvemos 100% do seu investimento — conforme o Código de Defesa do Consumidor. O risco é todo nosso."
+  },
+  "faq": {
+    "eyebrow": "Perguntas frequentes",
+    "title": "Ainda com dúvidas?",
+    "items": [
+      { "q": "Para que serve o Método Autora?", "a": "Para te ensinar, na prática, a transformar leitura em escrita acadêmica autoral: construir referencial teórico, escrever com a sua voz e transformar dados em contribuição teórica." },
+      { "q": "Como funciona o acesso?", "a": "É 100% online e você assiste no seu ritmo, pelo computador ou celular. Os módulos ficam disponíveis na plataforma e você aplica diretamente na sua própria pesquisa." },
+      { "q": "Serve para quem está no mestrado ou doutorado?", "a": "Sim. É indicado para quem está no mestrado, doutorado, pré-projeto ou processo seletivo, e também para quem já concluiu a pós e quer voltar a publicar com consistência." },
+      { "q": "Preciso saber escrever bem para começar?", "a": "Não. O método foi feito justamente para quem sente que “não sabe escrever do jeito que a academia exige”. Você aprende o caminho do zero." },
+      { "q": "O método usa IA para escrever no meu lugar?", "a": "Não. A proposta é o oposto: te dar autonomia para escrever com a sua própria voz, com segurança intelectual e sem depender de atalhos." },
+      { "q": "Posso pedir reembolso?", "a": "Sim. Você tem 7 dias de garantia a partir da compra para solicitar reembolso integral, conforme o Código de Defesa do Consumidor." }
+    ]
+  },
+  "finalCta": {
+    "title": "A decisão é sua. O <em>método</em> é meu.",
+    "lead": "Pare de acumular conteúdo sobre pesquisa e comece a escrever a sua. Garanta sua vaga no Método Autora hoje.",
+    "cta": "Quero garantir minha vaga"
+  },
+  "footer": {
+    "profLine": "Prof.ª Dra. Stephanie Ribeiro · @steribeiroprof",
+    "whatsappLabel": "Falar no WhatsApp",
+    "instagramUrl": "https://instagram.com/steribeiroprof",
+    "instagramLabel": "Instagram",
+    "email": "contato@metodoautora.com.br"
+  }
+}
