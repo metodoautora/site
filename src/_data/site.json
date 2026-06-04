@@ -174,14 +174,8 @@
       },
       {
         "num": "9",
-        "title": "Fechamento da pesquisa",
-        "text": "Revise o trabalho após a análise, escreva considerações finais, explicite contribuições e prepare sua pesquisa para entrega.",
-        "bonus": false
-      },
-      {
-        "num": "10",
-        "title": "Revisão",
-        "text": "Aprenda a revisar sua pesquisa com critérios, identificando o que precisa ser mantido, cortado, reorganizado ou aprofundado.",
+        "title": "Fechamento e revisão da pesquisa",
+        "text": "Escreva as considerações finais, explicite contribuições e revise seu trabalho com critérios, identificando o que manter, cortar, reorganizar ou aprofundar antes da entrega.",
         "bonus": false
       },
       {
@@ -194,6 +188,12 @@
         "num": "★",
         "title": "Agentes de IA do Método Autora",
         "text": "Acesso à Clara e a outros agentes de apoio criados para ajudar na estruturação, escrita e revisão da pesquisa, sempre como ferramentas de aplicação do método — não como substitutas da sua autoria.",
+        "bonus": true
+      },
+      {
+        "num": "★",
+        "title": "Encontros ao vivo",
+        "text": "Encontros para dúvidas, direcionamento e aprofundamento, ajudando você a aplicar o método ao seu momento real de pesquisa.",
         "bonus": true
       }
     ]
