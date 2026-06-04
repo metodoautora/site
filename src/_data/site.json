@@ -203,20 +203,23 @@
     "title": "Feito para a sua fase da pesquisa",
     "yesTitle": "É para você que…",
     "yesItems": [
-      "lê muito e escreve muito menos do que gostaria;",
-      "está no mestrado, doutorado ou em pré-projeto e precisa estruturar a escrita agora;",
-      "quer construir o referencial teórico com autoria e segurança;",
-      "precisa escrever a discussão e transformar dados em contribuição;",
-      "quer voltar a publicar e produzir com consistência;",
-      "deseja ocupar seu lugar na academia com voz própria."
+      "já estudou bastante, mas ainda se sente perdida na pesquisa;",
+      "está no mestrado, doutorado, pré-projeto, artigo ou TCC;",
+      "tem dificuldade para transformar leitura em texto;",
+      "sente que sua pesquisa ainda não tem direção clara;",
+      "precisa estruturar ou reorganizar capítulos;",
+      "fica insegura para tomar decisões;",
+      "quer escrever com mais critério, clareza e voz própria;",
+      "deseja conduzir sua pesquisa com mais autonomia."
     ],
     "noTitle": "Não é para você que…",
     "noItems": [
-      "procura dicas soltas sem intenção de aplicar;",
-      "quer um atalho para escrever sem se posicionar;",
-      "espera terceirizar a escrita para uma IA;",
-      "não está disposta a rever a própria rotina;",
-      "quer motivação vazia no lugar de método."
+      "procura uma fórmula pronta para copiar;",
+      "quer terceirizar sua escrita para uma IA;",
+      "espera que alguém faça a pesquisa por você;",
+      "busca apenas formatação, ABNT ou revisão gramatical;",
+      "quer apenas consumir aulas sem aplicar;",
+      "não está disposta a escrever, revisar e participar ativamente do processo."
     ]
   },
   "professora": {
