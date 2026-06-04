@@ -6,9 +6,9 @@
     "ogDescription": "O caminho para escrever sua pesquisa com autoria, clareza e método."
   },
   "config": {
-    "whatsapp": "5511999999999",
+    "whatsapp": "5585996316778",
     "whatsappMessage": "Olá! Vim pelo site e quero saber mais sobre o Método Autora.",
-    "checkout": "https://pay.exemplo.com.br/seu-produto"
+    "checkout": "https://form.respondi.app/1UeCaZ2r"
   },
   "brand": {
     "lead": "Método",
@@ -16,23 +16,38 @@
   },
   "nav": {
     "links": [
-      { "label": "O método", "href": "#sobre-o-metodo" },
-      { "label": "Módulos", "href": "#modulos" },
-      { "label": "Para quem é", "href": "#para-quem" },
-      { "label": "A professora", "href": "#professora" },
-      { "label": "Dúvidas", "href": "#faq" }
+      {
+        "label": "O método",
+        "href": "#sobre-o-metodo"
+      },
+      {
+        "label": "Módulos",
+        "href": "#modulos"
+      },
+      {
+        "label": "Para quem é",
+        "href": "#para-quem"
+      },
+      {
+        "label": "A professora",
+        "href": "#professora"
+      },
+      {
+        "label": "Dúvidas",
+        "href": "#faq"
+      }
     ],
     "cta": "Quero participar"
   },
   "hero": {
     "eyebrow": "Para mestrandas, doutorandas e pesquisadoras",
-    "title": "Você não precisa de mais conteúdo sobre pesquisa.<br><em>Precisa de um caminho.</em>",
-    "lead": "O <strong>Método Autora</strong> é o passo a passo da Prof.ª Dra. Stephanie Ribeiro para transformar leitura em texto acadêmico autoral — construir seu referencial teórico, escrever com voz própria e fazer a pesquisa finalmente avançar. Sem sobrecarga, sem retrabalho.",
+    "title": "Você não precisa de mais conteúdo solto sobre pesquisa.<br><em>Precisa de um caminho.</em>",
+    "lead": "O <strong>Método Autora</strong> é uma formação prática para pesquisadoras que já estudaram muito, mas ainda se sentem perdidas ou inseguras para transformar leitura, ideias e rascunhos em uma pesquisa clara, estruturada e autoral.",
     "ctaPrimary": "Quero garantir minha vaga",
     "ctaSecondary": "Entender como funciona",
     "badges": [
       "Acesso 100% online",
-      "No seu ritmo",
+      "Estude no seu ritmo",
       "7 dias de garantia"
     ],
     "photo": "assets/stephanie.svg",
@@ -44,12 +59,30 @@
     "title": "O problema não é falta de inteligência.<br>É falta de <em>método</em>.",
     "lead": "Você lê, sublinha, salva PDF, compra livro, faz anotações e acumula referências. Mas, na hora de escrever, nada se conecta — e a pesquisa não anda no ritmo que poderia.",
     "items": [
-      { "title": "“Meu texto está confuso e eu não sei por onde começar a revisar.”", "text": "Você sente que escreve de qualquer jeito e revisa no improviso, sem critério." },
-      { "title": "“Meu referencial parece uma colcha de retalhos.”", "text": "Citação atrás de citação, sem fio condutor — e sem a sua voz no meio." },
-      { "title": "“Sinto que os autores já disseram tudo.”", "text": "Qualquer coisa que você escreve parece “menos” do que o que já foi publicado." },
-      { "title": "“Não sei escrever do jeito que a academia exige.”", "text": "A insegurança trava a escrita e faz você adiar conversas com o orientador." },
-      { "title": "“Estudo muito, mas continuo travada.”", "text": "Seu esforço está virando cansaço, e não resultado." },
-      { "title": "“A discussão dos meus dados não sai.”", "text": "Você tem os resultados, mas não consegue transformá-los em contribuição teórica." }
+      {
+        "title": "“Meu texto está confuso e eu não sei por onde começar a revisar.”",
+        "text": "Você sente que escreve de qualquer jeito e revisa no improviso, sem critério."
+      },
+      {
+        "title": "“Meu referencial parece uma colcha de retalhos.”",
+        "text": "Citação atrás de citação, sem fio condutor — e sem a sua voz no meio."
+      },
+      {
+        "title": "“Sinto que os autores já disseram tudo.”",
+        "text": "Qualquer coisa que você escreve parece “menos” do que o que já foi publicado."
+      },
+      {
+        "title": "“Não sei escrever do jeito que a academia exige.”",
+        "text": "A insegurança trava a escrita e faz você adiar conversas com o orientador."
+      },
+      {
+        "title": "“Estudo muito, mas continuo travada.”",
+        "text": "Seu esforço está virando cansaço, e não resultado."
+      },
+      {
+        "title": "“A discussão dos meus dados não sai.”",
+        "text": "Você tem os resultados, mas não consegue transformá-los em contribuição teórica."
+      }
     ],
     "closing": "Isso acontece porque ninguém te ensinou a fazer a <strong>passagem entre leitura e escrita</strong>. E a gente interpreta esse bloqueio como incapacidade. Não é. É método — e método se aprende.",
     "cta": "Quero aprender o método"
@@ -67,10 +100,22 @@
       "Ganhe segurança intelectual para ocupar o seu lugar como pesquisadora."
     ],
     "stats": [
-      { "value": "7", "label": "módulos práticos e aplicáveis" },
-      { "value": "100%", "label": "online, no seu ritmo" },
-      { "value": "+ materiais", "label": "modelos, guias e checklists prontos" },
-      { "value": "7 dias", "label": "de garantia incondicional" }
+      {
+        "value": "7",
+        "label": "módulos práticos e aplicáveis"
+      },
+      {
+        "value": "100%",
+        "label": "online, no seu ritmo"
+      },
+      {
+        "value": "+ materiais",
+        "label": "modelos, guias e checklists prontos"
+      },
+      {
+        "value": "7 dias",
+        "label": "de garantia incondicional"
+      }
     ]
   },
   "modulos": {
@@ -78,14 +123,54 @@
     "title": "Os módulos do <em>Método Autora</em>",
     "lead": "Cada módulo resolve um ponto específico que trava a maioria das pesquisadoras.",
     "items": [
-      { "num": "01", "title": "Os fundamentos que ninguém te explicou", "text": "Epistemologia ≠ Paradigma ≠ Método ≠ Instrumento. Entenda, de uma vez por todas, a diferença — na prática — e pare de se perder no começo da pesquisa.", "bonus": false },
-      { "num": "02", "title": "Leitura estratégica e fichamento funcional", "text": "Escolha, priorize e organize leituras sem culpa por não ler tudo. Fique com o que interessa e descarte o que não serve.", "bonus": false },
-      { "num": "03", "title": "Referencial teórico sem colcha de retalhos", "text": "Construa um referencial com fio condutor, sem se perder nas leituras. Da pilha de citações a um texto que conversa com a sua pergunta.", "bonus": false },
-      { "num": "04", "title": "De citação a parágrafo autoral", "text": "Transforme citação direta em parágrafo seu. Aprenda a dialogar com os autores sem desaparecer do próprio texto.", "bonus": false },
-      { "num": "05", "title": "A estrutura do texto acadêmico", "text": "Como pensar a arquitetura do artigo, projeto, dissertação ou tese para que cada parágrafo tenha função e direção.", "bonus": false },
-      { "num": "06", "title": "Os parágrafos da discussão", "text": "Transforme seus dados em contribuição teórica. O momento em que o acúmulo finalmente vira argumento.", "bonus": false },
-      { "num": "07", "title": "Rotina e organização da pesquisa", "text": "Uma rotina acadêmica realista, ancorada na sua vida real, e uma organização que faz você nunca mais perder tempo procurando arquivos.", "bonus": false },
-      { "num": "★", "title": "Bônus: materiais de apoio", "text": "Modelo de fichamento funcional, cronograma de leitura e escrita, guia de organização da pesquisa e checklists prontos para aplicar.", "bonus": true }
+      {
+        "num": "01",
+        "title": "Os fundamentos que ninguém te explicou",
+        "text": "Epistemologia ≠ Paradigma ≠ Método ≠ Instrumento. Entenda, de uma vez por todas, a diferença — na prática — e pare de se perder no começo da pesquisa.",
+        "bonus": false
+      },
+      {
+        "num": "02",
+        "title": "Leitura estratégica e fichamento funcional",
+        "text": "Escolha, priorize e organize leituras sem culpa por não ler tudo. Fique com o que interessa e descarte o que não serve.",
+        "bonus": false
+      },
+      {
+        "num": "03",
+        "title": "Referencial teórico sem colcha de retalhos",
+        "text": "Construa um referencial com fio condutor, sem se perder nas leituras. Da pilha de citações a um texto que conversa com a sua pergunta.",
+        "bonus": false
+      },
+      {
+        "num": "04",
+        "title": "De citação a parágrafo autoral",
+        "text": "Transforme citação direta em parágrafo seu. Aprenda a dialogar com os autores sem desaparecer do próprio texto.",
+        "bonus": false
+      },
+      {
+        "num": "05",
+        "title": "A estrutura do texto acadêmico",
+        "text": "Como pensar a arquitetura do artigo, projeto, dissertação ou tese para que cada parágrafo tenha função e direção.",
+        "bonus": false
+      },
+      {
+        "num": "06",
+        "title": "Os parágrafos da discussão",
+        "text": "Transforme seus dados em contribuição teórica. O momento em que o acúmulo finalmente vira argumento.",
+        "bonus": false
+      },
+      {
+        "num": "07",
+        "title": "Rotina e organização da pesquisa",
+        "text": "Uma rotina acadêmica realista, ancorada na sua vida real, e uma organização que faz você nunca mais perder tempo procurando arquivos.",
+        "bonus": false
+      },
+      {
+        "num": "★",
+        "title": "Bônus: materiais de apoio",
+        "text": "Modelo de fichamento funcional, cronograma de leitura e escrita, guia de organização da pesquisa e checklists prontos para aplicar.",
+        "bonus": true
+      }
     ]
   },
   "paraQuem": {
@@ -124,9 +209,18 @@
     "title": "O que muda na prática",
     "lead": "Substitua pelos depoimentos reais das suas alunas.",
     "items": [
-      { "quote": "“Pela primeira vez meu referencial teórico tem um fio condutor. Parei de empilhar citações e comecei a escrever de verdade.”", "author": "— Aluna, mestranda em Educação" },
-      { "quote": "“Eu travava na discussão dos dados. Com o método, consegui transformar os resultados em contribuição teórica.”", "author": "— Aluna, doutoranda em Psicologia" },
-      { "quote": "“Saí da sensação de que ‘os autores já disseram tudo’. Hoje escrevo com a minha voz e muito mais segurança.”", "author": "— Aluna, pesquisadora" }
+      {
+        "quote": "“Pela primeira vez meu referencial teórico tem um fio condutor. Parei de empilhar citações e comecei a escrever de verdade.”",
+        "author": "— Aluna, mestranda em Educação"
+      },
+      {
+        "quote": "“Eu travava na discussão dos dados. Com o método, consegui transformar os resultados em contribuição teórica.”",
+        "author": "— Aluna, doutoranda em Psicologia"
+      },
+      {
+        "quote": "“Saí da sensação de que ‘os autores já disseram tudo’. Hoje escrevo com a minha voz e muito mais segurança.”",
+        "author": "— Aluna, pesquisadora"
+      }
     ]
   },
   "oferta": {
@@ -162,12 +256,30 @@
     "eyebrow": "Perguntas frequentes",
     "title": "Ainda com dúvidas?",
     "items": [
-      { "q": "Para que serve o Método Autora?", "a": "Para te ensinar, na prática, a transformar leitura em escrita acadêmica autoral: construir referencial teórico, escrever com a sua voz e transformar dados em contribuição teórica." },
-      { "q": "Como funciona o acesso?", "a": "É 100% online e você assiste no seu ritmo, pelo computador ou celular. Os módulos ficam disponíveis na plataforma e você aplica diretamente na sua própria pesquisa." },
-      { "q": "Serve para quem está no mestrado ou doutorado?", "a": "Sim. É indicado para quem está no mestrado, doutorado, pré-projeto ou processo seletivo, e também para quem já concluiu a pós e quer voltar a publicar com consistência." },
-      { "q": "Preciso saber escrever bem para começar?", "a": "Não. O método foi feito justamente para quem sente que “não sabe escrever do jeito que a academia exige”. Você aprende o caminho do zero." },
-      { "q": "O método usa IA para escrever no meu lugar?", "a": "Não. A proposta é o oposto: te dar autonomia para escrever com a sua própria voz, com segurança intelectual e sem depender de atalhos." },
-      { "q": "Posso pedir reembolso?", "a": "Sim. Você tem 7 dias de garantia a partir da compra para solicitar reembolso integral, conforme o Código de Defesa do Consumidor." }
+      {
+        "q": "Para que serve o Método Autora?",
+        "a": "Para te ensinar, na prática, a transformar leitura em escrita acadêmica autoral: construir referencial teórico, escrever com a sua voz e transformar dados em contribuição teórica."
+      },
+      {
+        "q": "Como funciona o acesso?",
+        "a": "É 100% online e você assiste no seu ritmo, pelo computador ou celular. Os módulos ficam disponíveis na plataforma e você aplica diretamente na sua própria pesquisa."
+      },
+      {
+        "q": "Serve para quem está no mestrado ou doutorado?",
+        "a": "Sim. É indicado para quem está no mestrado, doutorado, pré-projeto ou processo seletivo, e também para quem já concluiu a pós e quer voltar a publicar com consistência."
+      },
+      {
+        "q": "Preciso saber escrever bem para começar?",
+        "a": "Não. O método foi feito justamente para quem sente que “não sabe escrever do jeito que a academia exige”. Você aprende o caminho do zero."
+      },
+      {
+        "q": "O método usa IA para escrever no meu lugar?",
+        "a": "Não. A proposta é o oposto: te dar autonomia para escrever com a sua própria voz, com segurança intelectual e sem depender de atalhos."
+      },
+      {
+        "q": "Posso pedir reembolso?",
+        "a": "Sim. Você tem 7 dias de garantia a partir da compra para solicitar reembolso integral, conforme o Código de Defesa do Consumidor."
+      }
     ]
   },
   "finalCta": {
