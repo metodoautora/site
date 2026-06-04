@@ -126,50 +126,74 @@
     "items": [
       {
         "num": "01",
-        "title": "Os fundamentos que ninguém te explicou",
-        "text": "Epistemologia ≠ Paradigma ≠ Método ≠ Instrumento. Entenda, de uma vez por todas, a diferença — na prática — e pare de se perder no começo da pesquisa.",
+        "title": "Comece aqui",
+        "text": "Entenda a lógica do Método Autora, como usar a formação e a postura necessária para aplicar o método com mais autonomia, segurança e responsabilidade pelo próprio processo.",
         "bonus": false
       },
       {
         "num": "02",
-        "title": "Leitura estratégica e fichamento funcional",
-        "text": "Escolha, priorize e organize leituras sem culpa por não ler tudo. Fique com o que interessa e descarte o que não serve.",
+        "title": "Produtividade e execução da pesquisa",
+        "text": "Organize sua rotina de pesquisa sem depender de maratonas, culpa ou rotina perfeita. Aprenda a manter motivação, transformar intenção em tarefas possíveis e sustentar avanço constante.",
         "bonus": false
       },
       {
         "num": "03",
-        "title": "Referencial teórico sem colcha de retalhos",
-        "text": "Construa um referencial com fio condutor, sem se perder nas leituras. Da pilha de citações a um texto que conversa com a sua pergunta.",
+        "title": "Delimitação da Pesquisa: do tema à estrutura",
+        "text": "Escolha um tema possível, busque literatura com mais estratégia, organize fichamentos e transforme suas ideias em objeto, recorte, problema, pergunta, objetivos e justificativa.",
         "bonus": false
       },
       {
         "num": "04",
-        "title": "De citação a parágrafo autoral",
-        "text": "Transforme citação direta em parágrafo seu. Aprenda a dialogar com os autores sem desaparecer do próprio texto.",
+        "title": "Fundamentos da escrita científica",
+        "text": "Entenda a função de cada parte do texto, a lógica da linha argumentativa e como construir parágrafos com clareza, direção e uso estratégico das citações.",
         "bonus": false
       },
       {
         "num": "05",
-        "title": "A estrutura do texto acadêmico",
-        "text": "Como pensar a arquitetura do artigo, projeto, dissertação ou tese para que cada parágrafo tenha função e direção.",
+        "title": "Referencial teórico: da leitura ao argumento",
+        "text": "Aprenda a ler com foco na escrita, escolher o que entra, organizar autores e conceitos, construir um fio condutor e transformar leitura em argumento.",
         "bonus": false
       },
       {
         "num": "06",
-        "title": "Os parágrafos da discussão",
-        "text": "Transforme seus dados em contribuição teórica. O momento em que o acúmulo finalmente vira argumento.",
+        "title": "Introdução: do problema ao texto",
+        "text": "Construa uma introdução que conduz até o problema e apresenta a relevância da pesquisa.",
         "bonus": false
       },
       {
         "num": "07",
-        "title": "Rotina e organização da pesquisa",
-        "text": "Uma rotina acadêmica realista, ancorada na sua vida real, e uma organização que faz você nunca mais perder tempo procurando arquivos.",
+        "title": "Metodologia: da epistemologia ao método",
+        "text": "Entenda método para além da lista de técnicas. Aprenda a alinhar problema, objetivos, abordagem, estratégia, coleta e análise com mais coerência.",
+        "bonus": false
+      },
+      {
+        "num": "8",
+        "title": "Resultados e discussão: transformando dados em análise",
+        "text": "Organize seus dados, identifique padrões, construa achados, conecte teoria e empiria e transforme resultados em análise e contribuição.",
+        "bonus": false
+      },
+      {
+        "num": "9",
+        "title": "Fechamento da pesquisa",
+        "text": "Revise o trabalho após a análise, escreva considerações finais, explicite contribuições e prepare sua pesquisa para entrega.",
+        "bonus": false
+      },
+      {
+        "num": "10",
+        "title": "Revisão",
+        "text": "Aprenda a revisar sua pesquisa com critérios, identificando o que precisa ser mantido, cortado, reorganizado ou aprofundado.",
         "bonus": false
       },
       {
         "num": "★",
         "title": "Bônus: materiais de apoio",
-        "text": "Modelo de fichamento funcional, cronograma de leitura e escrita, guia de organização da pesquisa e checklists prontos para aplicar.",
+        "text": "Cadernos de implementação, templates, checklists, modelo de fichamento funcional, planilhas de organização, guias práticos e cronograma da pesquisa para aplicar o método no seu próprio trabalho.",
+        "bonus": true
+      },
+      {
+        "num": "★",
+        "title": "Agentes de IA do Método Autora",
+        "text": "Acesso à Clara e a outros agentes de apoio criados para ajudar na estruturação, escrita e revisão da pesquisa, sempre como ferramentas de aplicação do método — não como substitutas da sua autoria.",
         "bonus": true
       }
     ]
