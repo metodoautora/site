@@ -1,9 +1,9 @@
 {
   "meta": {
     "title": "Método Autora | Prof.ª Dra. Stephanie Ribeiro",
-    "description": "O método para transformar leitura em escrita acadêmica autoral. Construa seu referencial teórico, escreva com autoria e avance na sua pesquisa — sem sobrecarga.",
-    "ogTitle": "Método Autora | Prof.ª Dra. Stephanie Ribeiro",
-    "ogDescription": "O caminho para escrever sua pesquisa com autoria, clareza e método."
+    "description": "Formação prática para pesquisadoras que querem transformar confusão em direção, leitura em escrita e insegurança em autonomia acadêmica.",
+    "ogTitle": "Método Autora | Pesquisa, Escrita Científica e Autonomia",
+    "ogDescription": "Um caminho prático para conduzir sua pesquisa com mais clareza, critério e autonomia — da ideia ao texto final."
   },
   "config": {
     "whatsapp": "5585996316778",
@@ -279,7 +279,7 @@
     "seal": "7",
     "sealUnit": "dias",
     "title": "Garantia incondicional",
-    "lead": "Faça sua inscrição com tranquilidade. Se em até <strong>7 dias</strong> você sentir que o Método Autora não é para o seu momento, devolvemos 100% do seu investimento — conforme o Código de Defesa do Consumidor. O risco é todo nosso."
+    "lead": "Faça sua inscrição com tranquilidade. Você tem <strong>7 dias</strong> de garantia incondicional. Se, dentro desse prazo, sentir que o Método Autora não faz sentido para o seu momento, devolvemos 100% do seu investimento."
   },
   "faq": {
     "eyebrow": "Perguntas frequentes",
@@ -287,33 +287,45 @@
     "items": [
       {
         "q": "Para que serve o Método Autora?",
-        "a": "Para te ensinar, na prática, a transformar leitura em escrita acadêmica autoral: construir referencial teórico, escrever com a sua voz e transformar dados em contribuição teórica."
+        "a": "O Método Autora é uma formação online para pesquisadoras que querem conduzir sua pesquisa com mais clareza, critério e autonomia. Você aprende a transformar repertório em pesquisa: delimitar melhor o problema, organizar leituras, estruturar capítulos, construir metodologia, escrever com mais direção, analisar dados e revisar o trabalho com mais segurança."
       },
       {
-        "q": "Como funciona o acesso?",
-        "a": "É 100% online e você assiste no seu ritmo, pelo computador ou celular. Os módulos ficam disponíveis na plataforma e você aplica diretamente na sua própria pesquisa."
+        "q": "Para quem é o Método Autora?",
+        "a": "É para mestrandas, doutorandas e pesquisadoras que já estudam, leem e tentam avançar, mas sentem que a pesquisa ainda está confusa, solta ou sem direção. Também pode ajudar quem está em pré-projeto, processo seletivo, TCC, artigo ou retomando a escrita acadêmica."
       },
       {
-        "q": "Serve para quem está no mestrado ou doutorado?",
-        "a": "Sim. É indicado para quem está no mestrado, doutorado, pré-projeto ou processo seletivo, e também para quem já concluiu a pós e quer voltar a publicar com consistência."
+        "q": "Por quanto tempo é o acesso?",
+        "a": "Você terá acesso online por 1 ano a todos os conteúdos disponíveis na plataforma."
       },
       {
-        "q": "Preciso saber escrever bem para começar?",
-        "a": "Não. O método foi feito justamente para quem sente que “não sabe escrever do jeito que a academia exige”. Você aprende o caminho do zero."
+        "q": "Como funcionam os encontros ao vivo?",
+        "a": "Os encontros ao vivo são espaços para dúvidas, aprofundamento e direcionamento. Eles servem para ajudar você a aplicar o método ao seu momento real de pesquisa. Os encontros também ficarão gravados e disponíveis na plataforma para quem não puder participar ao vivo."
+      },
+      {
+        "q": "E se eu não tiver muito tempo?",
+        "a": "O Método Autora foi pensado para caber na vida real. Você não precisa maratonar aulas nem fazer tudo de uma vez. A ideia é aprender o que precisa, no momento em que precisa aplicar, para parar de gastar tempo e energia tentando avançar no improviso."
+      },
+      {
+        "q": "O Método Autora é uma mentoria individual?",
+        "a": "Não. O Método Autora é uma formação online, com aulas, materiais de implementação, encontros ao vivo e suporte pela plataforma. Ele não funciona como mentoria individual, mas oferece um caminho estruturado para você aplicar o método na sua própria pesquisa."
+      },
+      {
+        "q": "Meu texto será corrigido?",
+        "a": "Não é um serviço de revisão, correção ou reescrita do seu texto. O Método Autora ensina você a revisar com critérios, identificar problemas de estrutura, reorganizar capítulos e tomar decisões com mais autonomia. Em encontros e suportes, posso orientar dúvidas e exemplos, mas não há correção integral de trabalhos individuais."
       },
       {
         "q": "O método usa IA para escrever no meu lugar?",
-        "a": "Não. A proposta é o oposto: te dar autonomia para escrever com a sua própria voz, com segurança intelectual e sem depender de atalhos."
+        "a": "Não. A proposta é fortalecer sua autoria. O Método Autora pode incluir agentes de IA de apoio, como a Clara, para ajudar na estruturação, escrita e revisão, mas sempre como ferramentas de aplicação do método — não como substitutas da sua voz, das suas decisões ou da sua responsabilidade pela pesquisa."
       },
       {
-        "q": "Posso pedir reembolso?",
-        "a": "Sim. Você tem 7 dias de garantia a partir da compra para solicitar reembolso integral, conforme o Código de Defesa do Consumidor."
+        "q": "Tem garantia?",
+        "a": "Sim. Você tem 7 dias de garantia incondicional a partir da compra. Se, dentro desse prazo, sentir que o Método Autora não faz sentido para o seu momento, pode solicitar o reembolso integral conforme as regras da plataforma e o Código de Defesa do Consumidor."
       }
     ]
   },
   "finalCta": {
     "title": "A sua pesquisa continua sendo sua. O <em>método</em> existe para te ajudar a conduzir melhor o caminho.",
-    "lead": "Pare de acumular conteúdo sobre pesquisa e comece a escrever a sua. Garanta sua vaga no Método Autora hoje.",
+    "lead": "Dê o próximo passo para sair da confusão, transformar repertório em pesquisa e avançar com mais clareza, critério e autonomia.",
     "cta": "Quero garantir minha vaga"
   },
   "footer": {
@@ -321,6 +333,6 @@
     "whatsappLabel": "Falar no WhatsApp",
     "instagramUrl": "https://instagram.com/steribeiroprof",
     "instagramLabel": "Instagram",
-    "email": "contato@metodoautora.com.br"
+    "email": "metodoautora@gmail.com"
   }
 }
