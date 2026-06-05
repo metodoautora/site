@@ -233,46 +233,47 @@
     "photo": "assets/Design sem nome (1).png"
   },
   "depoimentos": {
-    "eyebrow": "Quem já aplicou",
+    "eyebrow": "Ao aplicar o método",
     "title": "O que muda na prática",
-    "lead": "Substitua pelos depoimentos reais das suas alunas.",
+    "lead": "O Método Autora foi criado para transformar confusão em direção, esforço disperso em avanço concreto e insegurança em autonomia na pesquisa.",
     "items": [
       {
-        "quote": "“Pela primeira vez meu referencial teórico tem um fio condutor. Parei de empilhar citações e comecei a escrever de verdade.”",
-        "author": "— Aluna, mestranda em Educação"
+        "quote": "Você entende qual é o próximo passo da pesquisa e para de gastar tempo e energia tentando avançar no escuro.",
+        "author": "— Do esforço disperso ao avanço concreto"
       },
       {
-        "quote": "“Eu travava na discussão dos dados. Com o método, consegui transformar os resultados em contribuição teórica.”",
-        "author": "— Aluna, doutoranda em Psicologia"
+        "quote": "Você aprende a transformar leitura, ideias e rascunhos em capítulos com função, lógica e fio condutor — reduzindo retrabalho na escrita e na revisão.",
+        "author": "— Da confusão ao texto organizado"
       },
       {
-        "quote": "“Saí da sensação de que ‘os autores já disseram tudo’. Hoje escrevo com a minha voz e muito mais segurança.”",
-        "author": "— Aluna, pesquisadora"
+        "quote": "Você desenvolve critérios para tomar decisões, revisar o caminho e depender menos de validação externa para seguir.",
+        "author": "— Da insegurança à autoria"
       }
     ]
   },
   "oferta": {
     "eyebrow": "A sua vaga",
-    "title": "Comece hoje a escrever com <em>método</em>",
-    "listTitle": "Ao garantir sua vaga, você recebe:",
+    "title": "Comece hoje a pesquisar com <em>método</em>",
+    "listTitle": "Ao entrar no Método Autora, você recebe:",
     "listItems": [
-      "Acesso a todos os <strong>7 módulos</strong> do Método Autora;",
-      "Modelo de <strong>fichamento funcional</strong>;",
-      "Cronograma de <strong>leitura e escrita integradas</strong>;",
-      "Guia de <strong>organização prática da pesquisa</strong>;",
-      "Checklists de revisão e escrita autoral;",
-      "Acesso pelo computador e pelo celular, no seu ritmo;",
+      "<strong>módulos práticos</strong> organizados por etapa da pesquisa;",
+      "<strong>cadernos de implementação</strong> e exercícios guiados;",
+      "<strong>roteiros de escrita</strong>, templates e checklists;",
+      "planilhas, cronograma e <strong>modelo de fichamento estratégico</strong>;",
+      "<strong>encontros ao vivo</strong> para dúvidas e direcionamento;",
+      "<strong>agentes de IA de apoio</strong>, como a Clara;",
+      "<strong>acesso online por 1 ano</strong> a todos os conteúdos;",
       "<strong>7 dias de garantia</strong> incondicional."
     ],
-    "priceFrom": "997",
-    "priceLabel": "por apenas",
-    "installments": "12x de",
-    "priceValue": "97",
-    "priceCents": ",00",
-    "cash": "ou R$ 997 à vista",
-    "ctaLabel": "Quero garantir minha vaga",
+    "priceFrom": "PRÉ-VENDA ABERTA",
+    "priceLabel": "até dia 08/06",
+    "installments": "  ",
+    "priceValue": "Formulário de Aplicação",
+    "priceCents": "  ",
+    "cash": "Preencha o formulário para eu entender seu momento de pesquisa e avaliar se o Método Autora faz sentido para você agora.",
+    "ctaLabel": "Quero preencher o formulário",
     "whatsappLabel": "Prefiro falar no WhatsApp antes",
-    "safe": "🔒 Compra 100% segura · Vagas limitadas"
+    "safe": "🔒 Sem compromisso · Retorno em até 48h úteis"
   },
   "garantia": {
     "seal": "7",
