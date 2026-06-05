@@ -106,12 +106,12 @@
         "label": "por etapa da pesquisa"
       },
       {
-        "value": "Encontros ao vivo",
-        "label": "para dúvidas e direcionamento"
-      },
-      {
         "value": "+ materiais",
         "label": "cadernos, modelos e checklists práticos"
+      },
+      {
+        "value": "Encontros ao vivo",
+        "label": "para dúvidas e direcionamento"
       },
       {
         "value": "7 dias",
@@ -127,7 +127,7 @@
       {
         "num": "01",
         "title": "Comece aqui",
-        "text": "Entenda a lógica do Método Autora, como usar a formação e a postura necessária para aplicar o método com mais autonomia, segurança e responsabilidade pelo próprio processo.",
+        "text": "Entenda a lógica do Método Autora e a postura necessária para sair da sensação de incapacidade, lidar com insegurança e começar a agir como autora da própria pesquisa.",
         "bonus": false
       },
       {
@@ -181,7 +181,7 @@
       {
         "num": "★",
         "title": "Bônus: materiais de apoio",
-        "text": "Cadernos de implementação, templates, checklists, modelo de fichamento funcional, planilhas de organização, guias práticos e cronograma da pesquisa para aplicar o método no seu próprio trabalho.",
+        "text": "Cadernos de implementação, templates, checklists, modelos de fichamento, planilhas de organização, guias práticos e cronograma da pesquisa para aplicar o método no seu próprio trabalho.",
         "bonus": true
       },
       {
@@ -226,8 +226,8 @@
     "eyebrow": "Quem conduz",
     "title": "Prof.ª Dra. <em>Stephanie Ribeiro</em>",
     "lead": "Antropóloga, pesquisadora e mentora acadêmica, Stephanie ajuda mestrandas, doutorandas e pesquisadoras a conduzirem suas pesquisas com mais clareza, critério e autonomia.",
-    "paragraph": "Depois de anos estudando, pesquisando e acompanhando pós-graduandas, percebeu que muitas pesquisadoras inteligentes continuavam travadas não por falta de capacidade, mas por falta de direção, processo e segurança — e foi dessa escuta que nasceu o Método Autora.",
-    "quote": "“Você não precisa chegar pronta. Precisa aprender a construir com método.”",
+    "paragraph": "Com formação em Ciências Sociais, Sociologia e Antropologia, atua desde 2019 com pesquisa, escrita científica, metodologia qualitativa, mentorias individuais e formações online para pesquisadoras.<br><br>\n\nAo acompanhar pós-graduandas de diferentes áreas e etapas, percebeu que muitas pessoas inteligentes continuavam travadas não por falta de capacidade, mas por falta de direção, processo e segurança para transformar repertório em pesquisa.<br><br>\n\nFoi dessa experiência que nasceu o Método Autora: uma condução que combina densidade teórica, aplicação prática e acolhimento para ajudar você a pensar, organizar, escrever, revisar e avançar com mais autonomia.",
+    "quote": "“Autonomia na pesquisa não nasce de saber tudo. Nasce de aprender a decidir com critério.”",
     "instagramUrl": "https://instagram.com/steribeiroprof",
     "instagramLabel": "Ver no Instagram",
     "photo": "assets/Design sem nome (1).png"
@@ -311,7 +311,7 @@
     ]
   },
   "finalCta": {
-    "title": "A decisão é sua. O <em>método</em> é meu.",
+    "title": "A sua pesquisa continua sendo sua. O <em>método</em> existe para te ajudar a conduzir melhor o caminho.",
     "lead": "Pare de acumular conteúdo sobre pesquisa e comece a escrever a sua. Garanta sua vaga no Método Autora hoje.",
     "cta": "Quero garantir minha vaga"
   },
